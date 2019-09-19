@@ -1,0 +1,1 @@
+rasa shell -m models --endpoints endpoints.yml --debug
